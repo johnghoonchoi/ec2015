@@ -1,0 +1,6 @@
+{
+  "react-router": "1.0.0-rc3",
+  "externalify": "0.1.0"
+}
+
+// https://react-in-meteor.readthedocs.org/en/latest/client-npm/
